@@ -1,6 +1,6 @@
-### Olá. Eu sou Fábio Procópio!
+### Olá! Eu sou Fábio Procópio. 👋
 
-- 👋 Olá, pessoal. Eu sou @fabioprocopio
+-  Olá, pessoal. Eu sou @fabioprocopio
 - 👀 Meta-heurísticas Bioinspiradas, Sistemas de Recomendação, Banco de Dados NoSQL e Internet das Coisas são áreas que têm me chamado a atenção 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
