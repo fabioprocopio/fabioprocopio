@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋! Eu sou Fábio Procópio.</h1>
 <h3 align="center">Professor de Sistemas de Informação</h3>
 
+Doutor (2016) e mestre (2007) em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte (UFRN) e bacharel (1999) em Sistemas de Informação pela Universidade Potiguar (UnP). Professor do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN), atuando nos cursos técnicos e superiores da área de Sistemas de Informação. As áreas de interesse incluem: Meta-heurísticas Bioinspiradas, Sistemas de Recomendação, Banco de Dados NoSQL e NewSQL e Internet das Coisas.
+
 - 📫 Contacte-me **fabio.procopio@ifrn.edu.br**
 
 <h3 align="left">Acesse:</h3>
