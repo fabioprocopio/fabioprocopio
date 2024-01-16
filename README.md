@@ -24,7 +24,7 @@ Doutor e mestre em Engenharia Elétrica e de Computação e bacharel em Sistemas
   <a href="https://www.typescriptlang.org/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
           
         
   <a href="https://www.mathworks.com/" target="_blank">
