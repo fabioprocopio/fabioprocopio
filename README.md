@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou o Prof. Fábio Procópio 👋
+# 👋 Olá, sou o Prof. Fábio Procópio 👋
 Doutor e mestre em Engenharia Elétrica e de Computação e bacharel em Sistemas de Informação. Professor do Instituto Federal do RN, atuando nos cursos técnicos e superiores da área de Sistemas de Informação. As áreas de interesse incluem: Meta-heurísticas Bioinspiradas, Sistemas de Recomendação, Banco de Dados NoSQL e NewSQL, Internet das Coisas e Aprendizado de Máquina.
 
 - 📫 Contacte-me **fabio.procopio@ifrn.edu.br**
