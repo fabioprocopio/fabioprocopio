@@ -29,15 +29,20 @@ Doutor e mestre em Engenharia Elétrica e de Computação e bacharel em Sistemas
   <a href="https://www.docker.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>        
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>   
   <a href="http://www.php.net" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>  
-
-  
-           
+   <a href="https://nodejs.org/en" target="_blank">
+     <mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>  
+   <a href="https://www.typescriptlang.org/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>  
+      
+      
+               
+          
+          
           
 
   
