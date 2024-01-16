@@ -12,9 +12,9 @@ Doutor e mestre em Engenharia Elétrica e de Computação e bacharel em Sistemas
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
    
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+ 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  
   <a href="http://www.php.net" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>  
