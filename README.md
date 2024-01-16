@@ -12,7 +12,7 @@ Doutor e mestre em Engenharia Elétrica e de Computação e bacharel em Sistemas
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
    
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" text-decoration:none;>
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a> 
   <a href="https://www.mysql.com/" target="_blank"> 
