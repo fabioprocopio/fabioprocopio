@@ -26,7 +26,7 @@ Doutor e mestre em Engenharia Elétrica e de Computação e bacharel em Sistemas
   </a> 
   <a href="https://www.mathworks.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a><br>
+  </a><br><br>
    
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
