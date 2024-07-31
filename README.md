@@ -1,6 +1,6 @@
 
 # 👋 Olá, sou o Prof. Fábio Procópio 👋
-Doutor e mestre em Engenharia Elétrica e de Computação e bacharel em Sistemas de Informação. Professor do Instituto Federal do RN, atuando nos cursos técnicos e superiores da área de Sistemas de Informação. As áreas de interesse incluem: Meta-heurísticas Bioinspiradas, Sistemas de Recomendação, Banco de Dados NoSQL e NewSQL, Internet das Coisas e Aprendizado de Máquina.
+Doutor (2016) e mestre (2007) em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte (UFRN). Bacharel (1999) em Sistemas de Informação pela Universidade Potiguar (UnP). Professor do quadro efetivo do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) desde 2011 na área de Sistemas de Informação. Ministra disciplinas do ensino técnico e da graduação na área de sistemas de informação. Possui experiência em análise e desenvolvimento de sistemas, administração e programação de sistemas de gerenciamento de banco de dados. Além disso, vem desenvolvendo projetos de pesquisa em parceria com a) Universidade de Coimbra (Portugal); b) Instituto Brasileiro de Museus (IBRAM) e; c) Centro Vocacional Tecnológica Espacial (CVT-E). As áreas de interesse incluem: meta-heurísticas bioinspiradas, sistemas de recomendação, aprendizagem de máquina, astronomia e propriedade intelectual. 
 
 - 📫 Contacte-me **fabio.procopio@ifrn.edu.br**
 
