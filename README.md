@@ -1,6 +1,10 @@
 
 # 👋 Olá, sou o Prof. Fábio Procópio 👋
-Doutor (2016) e mestre (2007) em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte (UFRN). Bacharel (1999) em Sistemas de Informação pela Universidade Potiguar (UnP). Professor do quadro efetivo do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) desde 2011 na área de Sistemas de Informação. Ministra disciplinas do ensino técnico e da graduação na área de sistemas de informação. Possui experiência em análise e desenvolvimento de sistemas, administração e programação de sistemas de gerenciamento de banco de dados. Além disso, vem desenvolvendo projetos de pesquisa em parceria com a) Universidade de Coimbra (Portugal); b) Instituto Brasileiro de Museus (IBRAM) e; c) Centro Vocacional Tecnológica Espacial (CVT-E). As áreas de interesse incluem: meta-heurísticas bioinspiradas, sistemas de recomendação, aprendizagem de máquina, astronomia e propriedade intelectual. 
+Doutor (2016) e mestre (2007) em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte (UFRN). Bacharel (1999) em Sistemas de Informação pela Universidade Potiguar (UnP). Atualmente, é professor titular do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN), na área de Sistemas de Informação. Ministra disciplinas nos cursos Técnico em Informática e Tecnólogo em Sistemas para Internet.
+
+Possui experiência em análise e desenvolvimento de sistemas, administração e programação de sistemas gerenciadores de banco de dados e engenharia de requisitos. No projeto do Inventário Nacional de Bens Culturais Musealizados (INBCM), desenvolvido em parceria com o Instituto Brasileiro de Museus (IBRAM), atua como líder técnico. Nos projetos SIMPAG (Sistema Integrado de Monotiramento do Programa Arroz da Gente) e SINAPSE (Sistemas Integrados para Aprimoramento de Políticas e Serviços Estratégicos), desenvolvidos em parceria com a CONAB (Companhia Nacional de Abastecimento), atua no SIMPAG como Scrum Master e DBA, e, no SINAPSE, como líder da equipe de analistas.
+
+Atualmente, suas áreas de interesse incluem sistemas de recomendação, aprendizagem de máquina, museologia aplicada, propriedade intelectual e processos de desenvolvimento de software.
 
 - 📫 Contacte-me **fabio.procopio@ifrn.edu.br**
 
