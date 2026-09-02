@@ -1,0 +1,38 @@
+* {
+    margin : 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    height: 60px;
+    border: 1px solid #333;
+    background-color: #333;
+    padding-right: 15px;
+}
+
+nav {
+    display: flex;
+    gap:10px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 20%;
+}
+
+nav a {
+    text-decoration: none;   /* Remove  linha do link */
+    color: white;          /* Muda a cor*/
+    font-family: sans-serif; 
+    font-size: small;
+    font-weight: bold;
+}
